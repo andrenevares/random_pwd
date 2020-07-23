@@ -1,2 +1,6 @@
-# random_pwd
-Simple project to create random passwords
+# Random Password Creator
+> #python #django
+
+Simple web app to create random passwords.
+
+
