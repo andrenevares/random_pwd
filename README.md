@@ -15,8 +15,8 @@ User can:
 - Select lenght of the password
 - Password will be generated using only lowercase letters
 - Or/and user can add uppercase letters
-- Or/and user can numbers
-- Or/and user can special characters
+- Or/and user can add numbers
+- Or/and user can add special characters
 
 ## CSS 
 Just copied from internet...  And made some changes...
